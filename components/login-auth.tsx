@@ -127,7 +127,7 @@ export function UserLoginForm({ className, ...props }: UserAuthProps) {
 					/>
 					<div className='flex justify-end text-[#B1B1B1] text-sm'>
 						<Link href={'/register'}>
-							<p className='hover:underline'>Don't have an account?</p>
+							<p className='hover:underline'>Dont have an account?</p>
 						</Link>
 					</div>
 				</div>
